@@ -1,0 +1,16 @@
+# Java / Maven / Gradle
+target/
+bin/
+out/
+*.class
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Sistemas de construcción
+.gradle/
+build/
